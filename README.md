@@ -1,5 +1,4 @@
 - <h3>👋 Hi, I’m @aurilio<h3>
-<br>
  
 - 🔭 I currently work developing systems for the financial sector.
 - 🏆 I'm Microsoft Certified developer (MCSD),
