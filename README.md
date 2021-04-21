@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
  
 - 🔭 I currently work developing systems for the financial sector.
-- 🏆 I'm Microsoft Certified developer (MCSD),
+- 🏆 I'm Microsoft certified professional developer (MCPD).
 - 💪 I want to become a specialist in .NET and Software Architecture.
 - 👀 I'm interested in wine, music and skydiving.
 
